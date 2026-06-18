@@ -1,0 +1,9 @@
+Replace this file with your real resume.
+
+Steps:
+1. Export your resume as a PDF.
+2. Name it "resume.pdf".
+3. Drop it into the /public folder, replacing this file (delete this .txt afterwards).
+
+The "Download Resume" button in the Hero section links to /resume.pdf, so as long as the
+file is named exactly that and lives in /public, it will work automatically after deployment.
