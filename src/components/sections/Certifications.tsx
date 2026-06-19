@@ -45,7 +45,7 @@ export function Certifications() {
               </div>
 
               <a
-                href="https://www.credly.com/"
+                href="https://www.credly.com/badges/b788d33a-8bf8-4fe9-963f-9fcfbba2d6d9/email"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex shrink-0 items-center justify-center gap-2 rounded-xl border border-cyan/40 bg-cyan/10 px-5 py-3 text-sm font-medium text-cyan transition-colors hover:bg-cyan/20"
