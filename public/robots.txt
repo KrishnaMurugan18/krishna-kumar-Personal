@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://krishnakumar.dev/sitemap.xml
+Sitemap: https://https://krishna-kumar-personal.vercel.app/sitemap.xml
