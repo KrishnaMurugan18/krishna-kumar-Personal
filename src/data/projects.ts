@@ -17,7 +17,7 @@ export const projects: ProjectItem[] = [
       'Designing a clean Hibernate entity model with the correct cascade and fetch strategies to avoid N+1 query issues at scale.',
     outcome:
       'Reduced manual record lookup time in testing scenarios and established a reusable Spring Boot + React template for future internal tools.',
-    githubUrl: 'https://github.com/krishnakumar/employee-management-system',
+    githubUrl: 'https://github.com/KrishnaMurugan18/Employee_Management_System',
   },
   {
     id: 'spring-rest-api',
@@ -35,7 +35,8 @@ export const projects: ProjectItem[] = [
       'Implementing secure JWT refresh-token rotation without introducing race conditions under concurrent requests.',
     outcome:
       'Delivered a documented, test-covered API template reused as the backend foundation for two later personal projects.',
-    githubUrl: 'https://github.com/krishnakumar/spring-boot-rest-api',
+    githubUrl: 'https://github.com/krishnamurugan18/spring-boot-rest-api',
+    liveUrl: 'https://employee-management-system-git-main-krishnakumarm18092002.vercel.app/',
   },
   {
     id: 'cloud-infra-automation',
