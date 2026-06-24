@@ -18,6 +18,7 @@ export const projects: ProjectItem[] = [
     outcome:
       'Reduced manual record lookup time in testing scenarios and established a reusable Spring Boot + React template for future internal tools.',
     githubUrl: 'https://github.com/KrishnaMurugan18/Employee_Management_System',
+    liveUrl: 'https://employee-management-system-git-main-krishnakumarm18092002.vercel.app/',
   },
   {
     id: 'spring-rest-api',
@@ -36,7 +37,6 @@ export const projects: ProjectItem[] = [
     outcome:
       'Delivered a documented, test-covered API template reused as the backend foundation for two later personal projects.',
     githubUrl: 'https://github.com/krishnamurugan18/spring-boot-rest-api',
-    liveUrl: 'https://employee-management-system-git-main-krishnakumarm18092002.vercel.app/',
   },
   {
     id: 'cloud-infra-automation',
